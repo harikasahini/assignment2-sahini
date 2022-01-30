@@ -17,3 +17,15 @@ Repository for assignment 2
  * Banana Split Ice Cream
  * Manchow Soup<br>
  [Link for details about me](https://github.com/harikasahini/assignment2-sahini/blob/main/AboutMe.md)
+
+ ---
+
+ # Tables
+Regular sporting activities can prevent chronic diseases and help develop healthy heart, strong bones, and enhanced lung function. Below are some of the sports which can help people to maintain healthy lifestyle. The table below shows the location where the sport can be played and the amount required for the initial equipment needed.
+
+| Activity name | Location | Amount in USD($) |
+| --- | --- | ---: |
+| Badminton | Recreation Centre | 100 |
+| Cricket | Filed's house | 200 |
+| Squash | Hower stadium | 200 |
+| Tennis | Spring court | 150 |
