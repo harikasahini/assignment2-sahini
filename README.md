@@ -16,3 +16,4 @@ Repository for assignment 2
  * Mughalai Biryani
  * Banana Split Ice Cream
  * Manchow Soup
+ [Link for about me details](https://github.com/harikasahini/assignment2-sahini/blob/main/AboutMe.md)
