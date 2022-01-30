@@ -11,3 +11,8 @@ Repository for assignment 2
  2. Take a cab from airport to the Kukatpally main road.
  3. Get down at Metro station on main road .
  4. The restaurant will be opposite to the Metro station.
+ ### Recommended food items
+ * Grilled Salamon dish
+ * Mughalai Biryani
+ * Banana Split Ice Cream
+ * Manchow Soup
