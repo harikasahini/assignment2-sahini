@@ -32,7 +32,7 @@ Regular sporting activities can prevent chronic diseases and help develop health
 
 ---
 
-#Quotes I like
+# Quotes I like
 
 >Talk to yourself once in a day, otherwise you may miss meeting an intelligent person in this world. -*Swami Vivekananda*
 >It's OK to have your eggs in one basket as long as you control what happens to that basket. -*Elon musk*
