@@ -7,8 +7,7 @@ Repository for assignment 2
  ---
 
  ## Directions for Zodiac grill restaurant
- *Hyderabad airport is closest airport to the Zodiac grill restaurant.
- *Take a cab from airport to the Kukatpally main road.
- *Get down at Metro station on main road .
- *The restaurant will be opposite to the Metro station.
- 
+ * Hyderabad airport is closest airport to the Zodiac grill restaurant.
+ * Take a cab from airport to the Kukatpally main road.
+ * Get down at Metro station on main road .
+ * The restaurant will be opposite to the Metro station.
