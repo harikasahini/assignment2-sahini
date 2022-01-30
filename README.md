@@ -15,5 +15,5 @@ Repository for assignment 2
  * Grilled Salamon dish
  * Mughalai Biryani
  * Banana Split Ice Cream
- * Manchow Soup
- [Link for about me details](https://github.com/harikasahini/assignment2-sahini/blob/main/AboutMe.md)
+ * Manchow Soup<br>
+ [Link for details about me](https://github.com/harikasahini/assignment2-sahini/blob/main/AboutMe.md)
