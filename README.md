@@ -20,7 +20,7 @@ Repository for assignment 2
 
  ---
 
- # Tables
+ # Sports Table
 Regular sporting activities can prevent chronic diseases and help develop healthy heart, strong bones, and enhanced lung function. Below are some of the sports which can help people to maintain healthy lifestyle. The table below shows the location where the sport can be played and the amount required for the initial equipment needed.
 
 | Activity name | Location | Amount in USD($) |
@@ -29,3 +29,4 @@ Regular sporting activities can prevent chronic diseases and help develop health
 | Cricket | Filed's house | 200 |
 | Squash | Hower stadium | 200 |
 | Tennis | Spring court | 150 |
+
