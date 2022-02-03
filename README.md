@@ -43,7 +43,7 @@ Regular sporting activities can prevent chronic diseases and help develop health
 # Prim's Algorithm
 
 >Kruskal’s Algorithm finds the Minimum Spanning Tree of a graph by starting with one of the edges with minimum weight and then trying to include the next minimum-weight edge from the rest of the edges while avoiding formation of any cycles.<br>
-[Reference link](https://efficientcodeblog.wordpress.com/2017/12/11/kruskals-algorithm-implementation/)
+<https://efficientcodeblog.wordpress.com/2017/12/11/kruskals-algorithm-implementation/>
 
 ```
 struct Edge {
@@ -77,4 +77,4 @@ for (Edge e : edges) {
     }
 }
 ```
-[Reference link](https://cp-algorithms.com/graph/mst_kruskal.html)
+<https://cp-algorithms.com/graph/mst_kruskal.html>
